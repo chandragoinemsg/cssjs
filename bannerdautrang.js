@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2swkxQB' target='_blank'><img src='http://chandragoinemsg.com/images/bannernew.png' width='500px'/><br/>Chăn dra gối nệm Gò Vấp</a>. Mua chăn dra gối nệm cao cấp giá rẻ LH: 0941130088. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2swkxQB' target='_blank'><img src='http://chandragoinemsg.com/images/bannernew.png' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
